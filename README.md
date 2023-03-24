@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/92ayo02elt6kyu80?svg=true)](https://ci.appveyor.com/project/MAGZSIM/postmanecho)
