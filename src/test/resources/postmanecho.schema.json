@@ -1,0 +1,37 @@
+{
+  "$schema": "https://postman-echo.com",
+  "type": "object",
+  "items": {
+    "type": "object",
+    "required": [
+      "args",
+      "data",
+      "files",
+      "form",
+      "headers",
+      "json"
+    ],
+    "additionalProperties": false,
+    "properties": {
+      "args": {
+        "type": "object"
+      },
+      "data": {
+        "type": "string",
+        "pattern": "^Test$"
+      },
+      "files": {
+        "type": "object"
+      },
+      "form": {
+        "type": "object"
+      },
+      "headers": {
+        "type": "object"
+      },
+      "json": {
+        "type": "null"
+      }
+    }
+  }
+}
